@@ -1,5 +1,5 @@
 
-# Install from git iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JJ8R4'))
+# Install from git iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/ajsystem/win-wsl2-config-scripts/main/1-setup-env.ps1'))
 # Instala Chocolatey -- https://chocolatey.org/
 function Install-Chocolatey {
     Set-ExecutionPolicy Bypass -Scope Process -Force;
